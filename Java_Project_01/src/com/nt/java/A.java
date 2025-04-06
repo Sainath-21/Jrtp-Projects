@@ -8,7 +8,7 @@ public class A {
 		
 	System.out.println("HIIIIIII");
 	System.out.println("Hello");
-	System.out.println("HRU?");
+	System.out.println("HRU?HRU");
 	System.out.println("I am Fine........");
 
 	}
